@@ -1,0 +1,13 @@
+django
+markdown 
+djangorestframework
+django-filter==21.1
+drf-api-tracking
+pillow
+django-cleanup
+python-decouple==3.8
+psycopg2
+pytz
+django-notifications-hq
+django-notifications-rest
+django-cors-headers
